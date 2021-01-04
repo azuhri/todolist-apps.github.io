@@ -151,8 +151,8 @@
                     
                     var time = id[i] + "/waktu";
                     var giat = id[i] + "/kegiatan";
-                    let upGiat = inputUpTgl.value;
-                    let upWaktu = inputUpTodo.value; 
+                    let upGiat = inputUpTodo.value;
+                    let upWaktu = inputUpTgl.value; 
                     var dataUpdate = {
                         id: id[i],
                         kegiatan: upGiat,
