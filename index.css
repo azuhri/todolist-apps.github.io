@@ -297,3 +297,107 @@ html {
 button {
     cursor: pointer!important;
 }
+
+
+/* Media Queries */
+@media screen and (max-width: 320px ){
+
+    .toDo{
+        width: 80%;
+        margin: 5em 0;
+    }
+
+    .toDo h1 {
+        font-size: 2em;
+    }
+
+    .tgl button {
+        width: 20%;
+    }
+
+    .coverUpdate {
+        width: 80%;
+    }
+
+    .list button {
+        width: 35%;
+    }
+
+}
+
+@media screen and (max-width: 360px ) {
+
+    .toDo{
+        width: 80%;
+        margin: 5em 0;
+    }
+
+    .toDo h1 {
+        font-size: 2em;
+    }
+
+    .tgl button {
+        width: 20%;
+    }
+
+    .coverUpdate {
+        width: 80%;
+    }
+
+    .list button {
+        width: 35%;
+    }
+
+}
+
+
+@media screen and (max-width: 380px ) {
+
+    .toDo{
+        width: 80%;
+        margin: 5em 0;
+    }
+
+    .toDo h1 {
+        font-size: 2em;
+    }
+
+    .tgl button {
+        width: 20%;
+    }
+
+    .coverUpdate {
+        width: 80%;
+    }
+
+    .list button {
+        width: 35%;
+    }
+
+}
+
+
+@media screen and (max-width: 420px ) {
+
+    .toDo{
+        width: 80%;
+        margin: 5em 0;
+    }
+
+    .toDo h1 {
+        font-size: 2em;
+    }
+
+    .tgl button {
+        width: 20%;
+    }
+
+    .coverUpdate {
+        width: 80%;
+    }
+
+    .list button {
+        width: 35%;
+    }
+
+}
