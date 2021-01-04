@@ -55,8 +55,8 @@
     })
 
     dlist.on('child_changed', function() {
-        // alert("Data telah terganti");
-        // location.reload();
+        alert("Data telah diupdate");
+        location.reload();
     })
 
 
