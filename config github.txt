@@ -1,0 +1,33 @@
+//Initianial nama 
+git config --global user.name "Azis Zuhri Pratomo"
+
+//initial email
+git config --global user.email "aziszuhrip354@gmail.com"
+
+//Initialisati repo local
+$ git init
+
+//Arahkan repo
+git remote add origin https://github.com/nonime240/evos-main.git
+
+//Melihat Branch
+$ git fetch
+
+// clone
+ $ git clone https://github.com/nonime240/evos-main.git  master
+
+//Melihat modifikasi file 
+$git status
+
+//pull
+$git pull origin master 
+
+$git add project-evos/.
+giti 
+$git commit -m "Text"
+
+$git push origin master:master
+
+
+
+
